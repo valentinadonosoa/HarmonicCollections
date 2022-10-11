@@ -1,0 +1,51 @@
+            .column1 
+            {
+            position: relative;
+            float: left;
+            width: 33.33%;
+            padding: 10px;
+            height: 300px;
+
+            }
+
+            .column2 
+            {
+            position: relative;
+            margin-top: 30px;
+            float: left;
+            width: 33.33%;
+            padding: 10px;
+            background-color: #fff;
+            border: #fff;
+            border-radius: 10px;
+            }
+
+            .row:after 
+            {
+            display: table;
+            clear: both;
+            }
+
+            .image9
+            {
+            position: absolute;
+            right: -550px;
+            bottom: -550px;
+            rotate: -50;
+            width: 80%;
+            }
+
+            .lyricbox
+            {
+            position: absolute;
+            width: 30%;
+            left: 460px;
+            }
+
+            .audio
+            {
+            position: absolute;
+            right: 81.7%;
+            top: 390px;
+            }
+
